@@ -2,7 +2,7 @@
 
 <p>this is a simple IP lookup tool that took me 10minutes and there is infinite requests :) </p>
 
-<h4> <span> · </span> <a href="https://github.com/knok/IP lookup/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/knok/IP lookup/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/knok/IP lookup/issues"> Request Feature </a> </h4>
+
 
 
 </div>
