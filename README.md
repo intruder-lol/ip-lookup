@@ -18,10 +18,29 @@
 ### :art: Color Reference
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#e60e2e](https://via.placeholder.com/10/e60e2e?text=+) #e60e2e |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Primary Color | ![#ed0f1e](https://via.placeholder.com/10/ed0f1e?text=+) #ed0f1e |
+| Secondary Color | ![#0000](https://via.placeholder.com/10/0000?text=+) #0000 |
 | Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+
+## :toolbox: Getting Started
+
+### :running: Run Locally
+
+Clone the project
+
+```bash
+https://github.com/knok-gg/ip-lookup
+```
+Go to the project directory
+```bash
+cd ip lookup.py
+```
+Install dependencies
+```bash
+pip install requests fade colorama
+```
+
 
 ## :warning: License
 
